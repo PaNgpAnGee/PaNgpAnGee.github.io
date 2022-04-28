@@ -1,8 +1,6 @@
-- title: Home
-  url: /
 - title: About
-  url: /about.html
-- title: Categories
-  url: /categories.html
+  url: /about/
 - title: Archive
-  url: /archive.html
+  url: /archive/
+- title: Categories
+  url: /categories/
