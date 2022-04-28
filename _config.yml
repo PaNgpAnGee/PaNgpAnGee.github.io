@@ -28,7 +28,7 @@ twitter_username:
 github_username: pangpangee
 
 # Build settings
-theme: jekyll-theme-tao
+#theme: jekyll-theme-tao
 remote-theme: vfvong/jekyll-theme-tao
 plugins:
   - jekyll-remote-theme
