@@ -1,4 +1,5 @@
 ---
+math: true
 layout: post
 title:  "지킬 안녕!"
 date:   2022-04-28-20-35
