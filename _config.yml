@@ -23,7 +23,7 @@ email: jijisusu0401@pukyong.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
   부경대 컴퓨터공학과 재학
 baseurl: ""
-url: "" https://pangpangee.github.io/
+url: "https://pangpangee.github.io/"
 twitter_username: 
 github_username: pangpangee
 
