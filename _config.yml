@@ -26,6 +26,8 @@ baseurl: ""
 url: "https://pangpangee.github.io/"
 twitter_username: 
 github_username: pangpangee
+categories_path: /categories/
+tags_path: /tags/
 
 # Build settings
 #theme: jekyll-theme-tao
