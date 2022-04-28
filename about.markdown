@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+lang: korean
 ---
 
 양자 컴퓨팅, 이론 전산학, 파이썬, 컴퓨터 과학, 해석학, 선형 대수학, 수학 등.
