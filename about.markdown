@@ -11,5 +11,5 @@ lang: korean
 
 > 제게 시(詩)를 줄 수 없다면 
 > 
-> 시적 과학(poetic sicence)을 주세요.  
+> 시적 과학(poetic sicence)을 주시오.  
 > - 에이다 러브레이스
