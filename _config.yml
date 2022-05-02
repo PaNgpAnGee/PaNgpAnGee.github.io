@@ -30,8 +30,8 @@ categories_path: /categories/
 tags_path: /tags/
 
 # Build settings
-#theme: jekyll-theme-tao
-remote-theme: vfvong/jekyll-theme-tao
+#theme: just-the-docs
+remote-theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
