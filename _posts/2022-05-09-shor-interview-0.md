@@ -5,6 +5,10 @@ title:  "피터 쇼어와의 인터뷰"
 date:   2022-05-08-12-00
 categories: 양자컴퓨팅
 ---
-*이 포스팅은 유럽 입자 물리 연구소(CERN) 실험 물리학(EP) 부서 뉴스레터 [Interview with Peter Shor](https://ep-news.web.cern.ch/content/interview-peter-shor)(Panos Charitos, 2021)을 번역한 것이다.*
+*이 포스팅은 '유럽 입자 물리 연구소'(CERN) '실험 물리학'(EP) 부서 뉴스레터 [Interview with Peter Shor](https://ep-news.web.cern.ch/content/interview-peter-shor)(Panos Charitos, 2021)을 번역한 것이다.*
 ![Shor1](https://ep-news.web.cern.ch/sites/default/files/styles/full_image/public/2021-03/225967_web.jpg?itok=4_Yubitr)
 *피터 쇼어는 조합론과 양자컴퓨팅 이론에서 선구적인 작업을 이루었다. 1994년 쇼어는 이론적으로 현존하는 다수의 코딩 체계를 깨는 데 쓰일 수 있는 "큰 수를 소인수분해"하는 계산적 방법을 제공하여 세계적인 인정을 받았다. 쇼어 알고리즘의 발견과 더불어 양자 오류 정정에 관한 쇼어의 작업은 양자 컴퓨터 분야를 한층 더 새롭게 북돋았다. 그 작업으로 쇼어는 1999년 유럽 이론 전산학 협회에서 괴델 상을 받고 맥아더 펠로우십을 수상하는 등 유수의 상을 받았다. 2017년 쇼어는 ICTP(국제 이론 물리 센터)의 디락 메달을 수상했고 2019년 BBVA 기초 과학 분야의 지식의 파운데이션 프론티어 어워드를 수상했다. 이 인터뷰에서 우리는 쇼어가 양자 정보 이론에서 처음 내딛은 발걸음 및 이에 따른 발전에 관해 그리고 양자 컴퓨팅의 미래는 물론 새로운 양자 시대가 우리 사회에 가져다줄 과제들과 씨름할 적에 필요한 기술과 자질에 관해 논의할 것이다.*
+
+**당신으로 하여금 양자정보이론에 관해 작업하도록 이끈 요인을 기억하십니까?**
+
+제가 양자컴퓨터와 양자정보이론에 관해 명확하는 최초의 기억은 벨 연구소에서 찰리 베넷(Charlie Bennett)의 발표입니다. 발표 주제는 베넷이 프랑수아즈 베셋(Froancois Bessette), 질 브라사드(Gille Brassard), 루이 사베일(Louis Salvail)과 함께 개발한 양자 키 분배 알고리즘이었습니다. 베넷은 존 스몰린(John Smolin)과 함께 만든/개발한 장치를 선보였는데요. 그 장치는 양자 키 분배 시스템의 작동하는 프로토타입이자 양자암호학의 최초 시연본이었습니다.
