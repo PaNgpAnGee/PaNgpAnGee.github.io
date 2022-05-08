@@ -15,8 +15,13 @@ categories: 양자컴퓨팅
 
 양자암호학은 수년간 우리의 기술적 역량을 벗어나는 공상 과학으로 여겨졌습니다. 이와 같은 음울한 인식에도 불구하고 1989년 10월 찰리 베넷, 프랑수와즈 베셋과 그의 동료들에 의해 최초의 실험적인 양자 키 분배 시스템이 성공적으로 구현되었죠. 수 년 지나 1992년 그들은 자신들이 만든 장치의 설계와 소프트웨어를 설명하는 논문<sup>[1](#footnote_1)</sup>을 출판했습니다.
 
-이는 양자암호학의 실험적인 시기와 양자컴퓨팅의 발전에 획기적인 순간을 가져왔습니다. 하지만 저는 아직 이 분야에 진출하거나 일할 생각이 없었습니다. 제게 전환점은 우메쉬 바지라니(Umesh Vazirani)가 자신의 작업<sup>[2](#footnote_2)</sup>을 토대로 양자컴퓨팅에 대한 강연을 하러 벨 연구소에 방문했을 떄입니다. 에단 번스타인(Ethan Bernstein)과 함께 말입니다. 그들은 양자 알고리즘에 대해 유수의 흥미로운 것들을 증명했는데, 특히 양자컴퓨터의 속도와 양자컴퓨터가 전통적인 확률론적 컴퓨터보다 훨씬 더 강력하다는 사실을 강조했습니다.
+이는 양자암호학의 실험적인 시기와 양자컴퓨팅의 발전에 획기적인 순간을 가져왔습니다. 하지만 저는 아직 이 분야에 진출하거나 일할 생각이 없었습니다. 제게 전환점은 우메쉬 바지라니(Umesh Vazirani)가 자신의 작업<sup>[2](#footnote_2)</sup>을 토대로 양자컴퓨팅에 대한 강연을 하러 벨 연구소에 방문했을 때입니다. 에단 번스타인(Ethan Bernstein)과 함께 말입니다. 그들은 양자 알고리즘에 대해 유수의 흥미로운 것들을 증명했는데, 특히 양자컴퓨터의 속도와 양자컴퓨터가 전통적인 확률론적 컴퓨터보다 훨씬 더 강력하다는 사실을 강조했습니다.
+
+**양자정보이론에서 당신이 처음으로 내딛은 발걸음은 무엇입니까?**
+
+
 
 <a name="footnote_1">1</a>: Bennett, Bessette, Brassard Salvail, and Smolin "Experimental Quantum Cryptography", J. of Cryptology 5, 3-28 (1992)
+
 <a name="footnote_2">2</a>: Bernstein, E. and Vazirani, U., “Quantum complexity theory”, Proceedings of the 25th Annual ACM Symposium on Theory of Computing, 1993, pp. 11 – 20.
 
