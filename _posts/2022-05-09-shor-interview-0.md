@@ -46,6 +46,8 @@ categories: 양자컴퓨팅
 암호학자들이 인수분해 결과에 놀란 이유는 이 결과가 곧 양자컴퓨터가 있다면 RSA와 디피 헬먼(Diffie-Hellman)법을 깰 수 있다는 것을 뜻했기 때문입니다. 이들 모두 인수분해와 이진 로그에 기초하고 있었고 또 현재 인터넷 보안 대다수가 여기 기초합니다.
 
 물리학자들이 놀란 이유는 양자컴퓨팅이 양자역학을 새롭고 완전히 예상하지 못한 방식으로 사용했기 때문입니다.
+
+
 ---
 
 <a name="footnote_1">1</a>: Bennett, Bessette, Brassard Salvail, and Smolin "Experimental Quantum Cryptography", J. of Cryptology 5, 3-28 (1992)
