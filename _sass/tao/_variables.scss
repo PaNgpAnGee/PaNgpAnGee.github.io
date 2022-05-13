@@ -28,11 +28,11 @@ $screen-desktop: 1024px;
 @media (prefers-color-scheme: dark) {
   :root {
     --body-bg:          var(--oc-white);
-    --body-fg:          var(--oc-black);
+    --body-fg:          var(--oc-gray-2);
     --body-color-light: var(--oc-gray-1);
     --body-color:       var(--oc-black);
     --accent-color:     var(--oc-orange-8);
-    --body-color-dark:  var(--oc-black);
+    --body-color-dark:  var(--oc-gray-9);
   }
 }
 
