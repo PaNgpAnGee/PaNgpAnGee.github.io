@@ -287,7 +287,7 @@ $$
 
 ### 1.6.3
 
-벡터 공간 공리는 $$\mathbb{R}^n$$에 대해 검증될 수 있다. 하지만 이는 지루한 작업이다. 우리는 여기서 그저 하나의 공리를 검증할 것이다. 바로 공리 $$\mathrm{VIII}:\;(a+b)v=av+bv$$다. 우리는 벡터 $$v$$를 $$v:=(x_1,x_2,\ldots,x_n)의 형식으로 작성할 수 있다. 그렇다면 좌변은 다음과 같으며
+벡터 공간 공리는 $$\mathbb{R}^n$$에 대해 검증될 수 있다. 하지만 이는 지루한 작업이다. 우리는 여기서 그저 하나의 공리를 검증할 것이다. 바로 공리 $$\mathrm{VIII}:\;(a+b)v=av+bv$$다. 우리는 벡터 $$v$$를 $$v:=(x_1,x_2,\ldots,x_n)$$의 형식으로 작성할 수 있다. 그렇다면 좌변은 다음과 같으며
 
 $$
 (a+b)v=(a+b)(x_1,x_2,\ldots,x_n)=((a+b)x_1,(a+b)x_2,\ldots,(a+b)x_n)
@@ -296,9 +296,11 @@ $$
 우변은 다음과 같으며
 
 $$
-av+bv=a(x_1,x_2,\ldots,x_n)+b(x_1,x_2,\ldots,x_n)\\
-=(ax_1,ax_2,\ldots,ax_n)+(bx_1,bx_2,\ldots,bx_n)\\
-=(ax+1+bx_1,ax_2+bx_2,\ldots,ax_n+bx_n)
+\begin{aligned}
+av+bv&=a(x_1,x_2,\ldots,x_n)+b(x_1,x_2,\ldots,x_n)\\
+&=(ax_1,ax_2,\ldots,ax_n)+(bx_1,bx_2,\ldots,bx_n)\\
+&=(ax+1+bx_1,ax_2+bx_2,\ldots,ax_n+bx_n)
+\end{aligned}
 $$
 
 각 $$j=1,2,\ldots,n$$에 대해 $$(a+b)x_j=ax_j+bx_j$$이기에 양변이 일치한다.
