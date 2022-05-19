@@ -76,12 +76,18 @@ categories: 컴퓨터_과학
 
 ## 4. 경험
 
-
+나는 이 접근을 지난 15년간 취했다. 학회 회보 독해, 논평 작성, 배경 연구, 논의 전의 짧은 논문 검토 등을 위해. 이처럼 훈련된 접근법은 나로 하여금 조감도를 취하기 전에 디테일에 잠식하지 않도록 예방해주었다. 내게 논문 뭉치를 검토에 요구되는 시간을 추정할 수 있도록 허락했다. 다른 무엇보다 나는 내 필요와 내게 주어진 시간에 따라 논문 감정의 깊이를 조정할 수 있다.
 
 ## 5. 관련 작업
+
+논평를 작성하기 위해 논문을 읽고 있다면 [Timothy Roscoe](https://inf.ethz.ch/people/person-detail.roscoe.html)의 "시스템 학회를 위한 논평 작성"<sup>[1](#footnote_1)</sup>에 관한 논문도 읽어야 한다.
 
 ## 6. 요청 사항
 
 ## 7. 감사의 말
 
 ## 8. 참고 문헌
+
+<a name="footnote_1">1</a>: T. Roscoe, "Writing Reviews for Systems Conferences,"
+[https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
+
