@@ -80,14 +80,27 @@ categories: 컴퓨터_과학
 
 ## 5. 관련 작업
 
-논평를 작성하기 위해 논문을 읽고 있다면 [Timothy Roscoe](https://inf.ethz.ch/people/person-detail.roscoe.html)의 "시스템 학회를 위한 논평 작성"<sup>[1](#footnote_1)</sup>에 관한 논문도 읽어야 한다.
+논평를 작성하기 위해 논문을 읽고 있다면 [Timothy Roscoe](https://inf.ethz.ch/people/person-detail.roscoe.html)의 "시스템 학회를 위한 논평 작성"<sup>[1](#footnote_1)</sup>에 관한 논문도 읽어야 한다. 기술 논문을 작성할 예정이라면 [Henning Schulzrinne](https://www.cs.columbia.edu/~hgs/)의 종합적인 웹사이트<sup>[2](#footnote_2)</sup>와 [George Whitesides](https://gmwgroup.harvard.edu/)가 그 절차에 관해 남긴 탁월한 개요<sup>[3](#footnote_3)</sup>를 모두 참고해야 한다.
 
 ## 6. 요청 사항
 
+나는 이것을 살아있는 문서로 만들고 싶다. 의견을 수용하면서 업데이트하고 싶다. 발전을 위한 아무 의견이나 제안을 위해 잠시만 시간을 내서 이메일을 달라. 또 CCR의 온라인 에디션인 CCRo<sup>[4](#footnote_4)</sup>에 코멘트를 남길 수도 있다.
+
 ## 7. 감사의 말
+
+이 문서는 내 학생 Hossein Falaki, Earl Oliver, Sumair Ur Rahman에 의해 초안이 작성되었다. 감사를 전한다. 나는 또한 Christophe Diot의 통찰력 있는 의견과 Nicole Keshav의 예리한 퇴고로 도움을 받았다.
+
+이 연구는 캐나다 국립 과학 기술 위원회, 캐나가 연구 위원장 프로그램, 노텔 네트웍스, 마이크로소프트, 인텔 코퍼레이션, 스프린트 코퍼레이션의 연구비로 지원되었다.
 
 ## 8. 참고 문헌
 
 <a name="footnote_1">1</a>: T. Roscoe, "Writing Reviews for Systems Conferences,"
 [https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf](https://people.inf.ethz.ch/troscoe/pubs/review-writing.pdf)
 
+<a name="footnote_2">2</a>: H. Schulzrinne, "Writing Technical Articles,"
+[https://www.cs.columbia.edu/~hgs/etc/writing-style.html](https://www.cs.columbia.edu/~hgs/etc/writing-style.html)
+
+<a name="footnote_3">3</a>: G.M. Whitesides, "Whitesides' Group: Writing a Paper,"
+[https://gmwgroup.harvard.edu/publications/whitesides-group-writing-paper](https://gmwgroup.harvard.edu/publications/whitesides-group-writing-paper)
+
+<a name="footnote_4">4</a>: ACM SIGCOMM Computer Communication Review Online, [http://www.sigcomm.org/ccr/drupal/](http://www.sigcomm.org/ccr/drupal/)
